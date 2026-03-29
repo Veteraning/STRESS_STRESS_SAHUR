@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """
-SHADOW RELAY v2027.5 — DANGEROUS EDITION
-Heavy Multi-Proxy Stress Tester — High Firepower Mode
-Educational & Authorized Testing Only — Use at Your Own Risk
+stress stress sahuuuuuuurrrrrrrr!!!
 """
 
 import asyncio
@@ -33,8 +31,8 @@ WARNING_ART = r"""
 def print_scary_header():
     print("\n")
     print("\033[38;5;130m" + WARNING_ART + "\033[0m")
-    print(Fore.RED + Style.BRIGHT + "                                 MAXIMUM IMPACT MULTI-PROXY PAYLOAD FLOOD")
-    print(Fore.YELLOW + "                                   DANGEROUS EDITION — HIGH FIREPOWER")
+    print(Fore.RED + Style.BRIGHT + "                                 MAXIMUM IMPACT MULTI-PROXY SAHUR FLOOD")
+    print(Fore.YELLOW + "                                   TRIPLE T EDITION - HIGH POWER")
     print(Style.RESET_ALL + "\n")
 
 
